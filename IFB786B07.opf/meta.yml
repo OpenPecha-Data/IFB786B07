@@ -1,0 +1,36 @@
+id: IFB786B07
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T03:58:41.619400'
+last_modified: '2022-06-19T03:58:41.619413'
+parser: null
+source_metadata:
+  title: Hagiography of Gos lo gZhon nu dpal (1392–1481)
+  author: zhwa dmar chos grags ye shes/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09-24); OCR-proofread; revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Rime Centre Moscow, OCR-processed
+  - Editorial process:kun dga' rdo rje/ (kun), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:mi rigs dpe skrun khang / (ed), kun dga' rdo rje/ (kun)
+  text_witnesses: https://sakyaresearch.org/sources/143
+  bases:
+    5e00:
+      title: Hagiography of Gos lo gZhon nu dpal (1392–1481)
+      order: 1
+      base_file: 5e00.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
